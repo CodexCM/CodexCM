@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Engineering at college and learning Comp Sci on my free time.
 - 💞️ I’m looking to collaborate on anything whether that be simple or complex as I wish to dive more into the programming world.
 - 📫 How to reach me: Through Github would be the best possible way.
-- 😄 Pronouns:He/him.
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: I have an artistic side to me whether that be by drawing or playing music.
 
 <!---
